@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="4" passed="3" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-02-06T10:56:31 IST" name="Default suite" finished-at="2023-02-06T10:56:33 IST" duration-ms="2595">
+  <suite started-at="2023-02-06T11:05:20 IST" name="Default suite" finished-at="2023-02-06T11:05:24 IST" duration-ms="3779">
     <groups>
     </groups>
-    <test started-at="2023-02-06T10:56:31 IST" name="Default test" finished-at="2023-02-06T10:56:33 IST" duration-ms="2595">
+    <test started-at="2023-02-06T11:05:20 IST" name="Default test" finished-at="2023-02-06T11:05:24 IST" duration-ms="3779">
       <class name="api_Automation.Demo1">
-        <test-method signature="deleteUser()[pri:0, instance:api_Automation.Demo1@49912c99]" started-at="2023-02-06T10:56:31 IST" name="deleteUser" finished-at="2023-02-06T10:56:33 IST" duration-ms="1776" status="FAIL">
+        <test-method signature="deleteUser()[pri:0, instance:api_Automation.Demo1@49912c99]" started-at="2023-02-06T11:05:20 IST" name="deleteUser" finished-at="2023-02-06T11:05:23 IST" duration-ms="2732" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[1 expectation failed.
@@ -87,15 +87,15 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- deleteUser -->
-        <test-method signature="getUsers()[pri:1, instance:api_Automation.Demo1@49912c99]" started-at="2023-02-06T10:56:33 IST" name="getUsers" finished-at="2023-02-06T10:56:33 IST" duration-ms="126" status="PASS">
+        <test-method signature="getUsers()[pri:1, instance:api_Automation.Demo1@49912c99]" started-at="2023-02-06T11:05:23 IST" name="getUsers" finished-at="2023-02-06T11:05:23 IST" duration-ms="148" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getUsers -->
-        <test-method signature="createUserWithHashMap()[pri:2, instance:api_Automation.Demo1@49912c99]" started-at="2023-02-06T10:56:33 IST" name="createUserWithHashMap" finished-at="2023-02-06T10:56:33 IST" duration-ms="583" status="PASS">
+        <test-method signature="createUserWithHashMap()[pri:2, instance:api_Automation.Demo1@49912c99]" started-at="2023-02-06T11:05:23 IST" name="createUserWithHashMap" finished-at="2023-02-06T11:05:24 IST" duration-ms="743" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createUserWithHashMap -->
-        <test-method signature="createUserWithJSONLibrary()[pri:3, instance:api_Automation.Demo1@49912c99]" started-at="2023-02-06T10:56:33 IST" name="createUserWithJSONLibrary" finished-at="2023-02-06T10:56:33 IST" duration-ms="54" status="PASS">
+        <test-method signature="createUserWithJSONLibrary()[pri:3, instance:api_Automation.Demo1@49912c99]" started-at="2023-02-06T11:05:24 IST" name="createUserWithJSONLibrary" finished-at="2023-02-06T11:05:24 IST" duration-ms="70" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createUserWithJSONLibrary -->
