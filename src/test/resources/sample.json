@@ -1,5 +1,14 @@
 {
   "users": [
-   
+    {
+      "Lname": "Mamidi",
+      "Fname": "Shyamala",
+      "id": 1
+    },
+    {
+      "Lname": "Mamidi",
+      "Fname": "Ramu",
+      "id": 2
+    }
   ]
 }
